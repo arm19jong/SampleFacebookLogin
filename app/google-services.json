@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "997670176268",
+    "firebase_url": "https://yellowya-cf117.firebaseio.com",
+    "project_id": "yellowya-cf117",
+    "storage_bucket": "yellowya-cf117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997670176268:android:5dac0bd9ba4d0b0c",
+        "android_client_info": {
+          "package_name": "com.shoppening.samplefacebooklogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997670176268-p52661471bsc4ao7sovomr01qne1d84c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shoppening.samplefacebooklogin",
+            "certificate_hash": "4adf12af9a1dac00b8430f4026b72e8981db6a05"
+          }
+        },
+        {
+          "client_id": "997670176268-7n69cn2rkjcsf70o05t3jh9nnu3utk7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBstTJehOeNtB9kXMjyqVy_HyA7Xd5yums"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997670176268-7n69cn2rkjcsf70o05t3jh9nnu3utk7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
